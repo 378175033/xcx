@@ -1,0 +1,9 @@
+<!--pages/wxml/index.wxml-->
+<!--一个简单的文本标签 -->
+<text>hello world</text>
+
+<!-- view 中包含了 text 标签 -->
+<view>
+  <text>hello world</text>
+</view>
+<image class="userinfo-avatar" src="./image/a.png" ></image>
