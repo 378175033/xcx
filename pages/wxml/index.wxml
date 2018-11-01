@@ -6,4 +6,4 @@
 <view>
   <text>hello world</text>
 </view>
-<image class="userinfo-avatar" src="./image/a.png" ></image>
+<!-- <image class="userinfo-avatar" src="./image/a.png" ></image> -->
